@@ -1,0 +1,52 @@
+
+body{
+
+    overflow: hidden;
+    font-weight: 500;
+}
+#pagination-setting{
+
+    padding-left: 100px;
+    padding-top: 30px;
+}
+#dropdown-style-catigories{
+
+    display: block;
+    width: 50px;
+    height: 30px;
+}
+.pagination-input-style-catigories{
+  display: flex;
+
+}
+#page-setting-catigories{
+    padding-top: 30px;
+}
+ 
+
+
+#thead-catigories{
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+#tbody-catigories{
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+
+}
+ .bodystyle-catigories {
+  display: block;
+  height: 400px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+#cati-total{
+
+  color: antiquewhite;
+  font-size: 25px;
+             font-family: 'initial';
+
+
+}

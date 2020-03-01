@@ -1,0 +1,71 @@
+#paggination-product{
+    padding-left: 250px;
+     padding-top:23px;
+    
+    
+    
+    }
+    .selectstyle{
+
+        display: block;
+    }
+    
+    
+    .row-mange-class{
+    
+      display: inline-flex;
+      padding-left: 10px;
+    
+    }
+    .selectSetting{
+    
+        padding-right: 30px;
+    }
+    #dropdown-style-product{
+
+        display: block;
+        width: 50px;
+        height: 30px;
+      }
+      .pagination-input-style-product{
+      display: flex;
+      padding-top: 2px;
+      
+      }
+      #page-setting-product{
+        padding-top: 30px;
+      }
+      #codewidth{
+        width:100px
+      
+      }
+      
+      
+      #thead-product {
+      display: table;
+      width: 100%;
+      table-layout: fixed;
+      }
+      #tbody-product {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        }
+      .bodystyle-product{
+      display: block;
+      height: 400px;
+      overflow-x: hidden;
+      overflow-y: scroll;
+      }
+      .poduct-total{
+
+        color: antiquewhite;
+        font-size: 25px;
+                   font-family: 'initial';
+      
+      
+      }
+      
+      
+    
+    

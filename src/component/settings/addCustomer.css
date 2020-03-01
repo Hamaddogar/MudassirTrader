@@ -1,0 +1,75 @@
+.paggination-setting{
+ padding-left: 100px;
+ padding-top: 38px;
+   
+
+
+}
+.statauswidth{
+width:200px
+
+}
+.selectstyle{
+
+    display: block;
+}
+
+
+.row-mange-class{
+
+  display: inline-flex;
+  padding-left: 10px;
+
+}
+.selectSetting{
+
+    padding-right: 30px;
+}
+.pointerview{
+  pointer-events: none;
+}
+
+#dropdown-style-customer{
+
+  display: block;
+  width: 50px;
+  height: 30px;
+}
+.pagination-input-style-customer{
+display: flex;
+padding-top: 2px;
+
+}
+#page-setting-customer{
+  padding-top: 35px;
+}
+#codewidth{
+  margin: 10px;
+
+}
+
+
+#thead-customer {
+display: table;
+width: 100%;
+table-layout: fixed;
+}
+#body-customer{
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+
+}
+.bodystyle-customer{
+display: block;
+height: 400px;
+overflow-x: hidden;
+overflow-y: scroll;
+}
+
+.totalstyle{
+  color: antiquewhite;
+             font-size: 25px;
+             font-family: 'initial';
+
+}

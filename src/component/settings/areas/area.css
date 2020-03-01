@@ -1,0 +1,81 @@
+body{
+
+  overflow: hidden;
+
+  
+}
+
+tbody tr td {
+
+  font-weight: 800;
+}
+ /* tbody tr { line-height: 10px; } */
+
+#paggination-Setting{
+padding-left: 100px;
+ padding-top: 21px;
+
+
+
+
+}
+.icon{
+  width: 34px;
+
+
+}
+#dropdown-style-area{
+
+    display: block;
+    width: 50px;
+    height: 30px;
+}
+.pagination-input-style-area{
+  display: flex;
+
+}
+.page-setting{
+    padding-top: 24px;
+}
+ 
+
+
+
+ .thead-area{
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+
+ }
+ .tbody-area{
+
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+ }
+ .bodystyle-area {
+  display: block;
+  height: 400px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+/* td {
+  overflow: hidden;
+  width: 300px;
+ 
+} */
+#codewidth{
+
+  width: 170px;
+
+}
+
+.area-total{
+
+  color: antiquewhite;
+  font-size: 25px;
+             font-family: 'initial';
+
+
+}
+

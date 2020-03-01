@@ -1,0 +1,94 @@
+
+.selectstyle-main {
+  display: block;
+  width: 250px;
+  position: relative;
+  font-weight: 800;
+}
+.selectSetting-main {
+  padding-top: 14px;
+}
+.selectstyle-1 {
+  display: block;
+  width: 130px;
+  font-weight: 800;
+}
+.selectSetting-1 {
+  padding-top: 14px;
+}
+.selectstyle-2 {
+  font-weight: 800;
+  display: block;
+  width: 130px;
+}
+.selectSetting-2 {
+  padding-top: 14px;
+}
+.selectstyle-3 {
+  font-weight: 800;
+
+  display: block;
+  width: 130px;
+}
+.selectSetting-3 {
+  padding-top: 14px;
+}
+
+.paggination-pricing {
+  padding-left: 230px;
+  padding-top: 30px;
+}
+.selectstyle {
+  display: block;
+}
+
+.row-mange-class {
+  display: inline-flex;
+  padding-left: 10px;
+}
+.selectSetting {
+  padding-right: 30px;
+}
+
+#dropdown-style-product-price {
+  display: block;
+  width: 50px;
+  height: 30px;
+}
+.pagination-input-style-product-price {
+  display: flex;
+  padding-top: 13px;
+}
+#page-setting-product-price {
+  padding-top: 30px;
+}
+#codewidth {
+  width: 100px;
+}
+
+#thead-princing{
+
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+#tbody-princing {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+.bodystyle-product-price {
+  display: block;
+  height: 400px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.princing-total{
+
+  color: antiquewhite;
+  font-size: 25px;
+             font-family: 'initial';
+
+
+}

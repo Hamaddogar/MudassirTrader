@@ -1,0 +1,137 @@
+.addressSetting{
+
+
+    padding-left: 10px;
+     padding-top: 20px;
+  
+  }
+  
+  .topheading{
+      font-weight:Bold;
+    padding-top: 10px;
+     text-align: center;
+  
+  }
+  .Phonenumber{
+  
+      padding-left: 160px;
+  }
+  .billsheading{
+     padding-left:50px;
+     font-weight: bold;
+      font-size: medium;
+  
+   
+  
+  
+  }
+  .bill-from-to{
+    
+      padding-left: 320px;
+    font-weight: bold;
+    font-size: medium;
+  
+  }
+   .thd {
+    border: 1px solid black;
+     width: 700px;
+    padding-left: 20px;
+    padding-right: 20px;;
+   
+  }
+  .bordershow{
+  
+  
+  border:1 px solid black
+  }
+  /* th, td {
+    padding: 5px;
+    text-align: left;
+  } */
+  .cut-style{
+   width: 100%;
+   height: 50px;
+   opacity: 0.5;
+  
+  
+  
+  
+  }
+
+.settable-side{
+
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+  .tableset {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
+  .thset{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;   
+
+  }
+  .tdset{
+
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: left;  
+  }
+  
+.div1{
+
+  display:inline-block;
+  font-weight: bold;
+  padding-left: 10px;
+    
+}
+.div2{
+
+  display: inline-block;
+}
+.div3{
+
+  display: inline-block;
+font-weight: bold;
+padding-left: 570px;
+}
+.hrstyle-one {
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: -webkit-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -moz-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
+  background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
+  padding-right: 5px;
+  padding-left:5px ;
+  }
+  .total-payable-bill{
+    font-weight: bold;
+    padding-left: 600px;
+    }
+    .urdu-Notes{
+
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+
+    }
+.urdu-notes2{
+  padding-left: 10px;
+  padding-right: 10px;
+  float: right;
+}
+.img-cut{
+  width: 100%;
+
+}
+
+
+  

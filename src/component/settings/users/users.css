@@ -1,0 +1,52 @@
+#pagginationUser{
+    padding-left: 150px;
+     padding-top: 30px;
+    
+    
+    
+    
+    }
+    #dropdown-style-user{
+
+        display: block;
+        width: 50px;
+        height: 30px;
+      }
+      .pagination-input-style-user{
+      display: flex;
+      padding-top: 2px;
+      
+      }
+      #page-setting-user{
+        padding-top: 30px;
+      }
+      #codewidth{
+        width:100px
+      
+      }
+      
+      
+      #thead-user {
+      display: table;
+      width: 100%;
+      table-layout: fixed;
+      }
+      #tbody-user {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+        }
+      .bodystyle-user{
+      display: block;
+      height: 400px;
+      overflow-x: hidden;
+      overflow-y: scroll;
+      }
+      .user-total{
+
+        color: antiquewhite;
+        font-size: 25px;
+                   font-family: 'initial';
+      
+   
+    }

@@ -1,0 +1,79 @@
+.addressSetting{
+
+
+  padding-left: 10px;
+   padding-top: 20px;
+
+}
+
+.topheading{
+    font-weight:Bold;
+  padding-top: 10px;
+   text-align: center;
+
+}
+.Phonenumber{
+
+    padding-left: 160px;
+}
+.billsheading{
+   padding-left:50px;
+   font-weight: bold;
+    font-size: medium;
+
+ 
+
+
+}
+.bill-from-to{
+  
+    padding-left: 320px;
+  font-weight: bold;
+  font-size: medium;
+
+}
+ .thd {
+  border: 1px solid black;
+   width: 700px;
+  padding-left: 20px;
+  padding-right: 20px;;
+ 
+}
+.bordershow{
+
+
+border:1 px solid black
+}
+/* th, td {
+  padding: 5px;
+  text-align: left;
+} */
+.img-cut{
+  width: 100%;
+
+}
+
+.tableset {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+.thset{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: left;   
+
+}
+.tdset{
+
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: left;  
+}
+.table-setting{
+padding-right: 10px;
+padding-left: 10px;
+
+}

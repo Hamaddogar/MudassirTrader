@@ -1,0 +1,53 @@
+#paggination-Setting{
+    padding-left: 230px;
+     padding-top: 25px;
+    
+    
+    
+    
+    }
+
+    .pointerview{
+        pointer-events: none;
+      }
+      #dropdown-style-supplier{
+
+        display: block;
+        width: 50px;
+        height: 30px;
+    }
+    .pagination-input-style-supplier{
+      display: flex;
+      padding-top: 13px;
+    
+    }
+    #page-setting-supplier{
+        padding-top: 20px;
+    }
+     
+    
+    
+    #thead-supplier {
+      display: table;
+      width: 100%;
+      table-layout: fixed;
+    }
+    #tbody-supplier {
+      display: table;
+      width: 100%;
+      table-layout: fixed;
+    }
+     .bodystyle-supplier{
+      display: block;
+      height: 400px;
+      overflow-x: hidden;
+      overflow-y: scroll;
+    }
+    .supplier-total{
+
+        color: antiquewhite;
+        font-size: 25px;
+                   font-family: 'initial';
+      
+   
+    }
